@@ -1,2 +1,2 @@
 # Dubro
-A set of chess pieces that look like the Dubrovnik set
+A set of chess pieces inspired by the Dubrovnik set
